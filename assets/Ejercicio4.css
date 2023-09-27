@@ -1,0 +1,17 @@
+table{
+    text-align: center;
+
+}
+
+thead, .negrita{
+    color: black;
+    font-weight: bolder;
+}
+
+tbody{
+    background-color: coral;
+}
+
+tfoot{
+    background-color: rgb(188, 191, 235);
+}
